@@ -1,5 +1,7 @@
 # Alisa Pushnova
 
+![alt text](photo.JPG "Alisa Pushnova")
+
 * ### Contacts
   ***email: alisa.pushnova@gmail.com***   
   ***phone: +375(29)691-60-67***
