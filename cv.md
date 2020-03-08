@@ -8,7 +8,7 @@
   I am a second-year Computer Science student looking for my calling in IT. 
   My favorite subjects at university are all the ones related with programming. 
   I also like to learn new technologies by experimenting with myself. For instance last month, I have created a cross-platform mobile app in Xamarin Forms (C#) because I was curious about how to change some settings in my favorite application. 
-  The main reason I am passionate about programming in Swift is that I have the availability of necessary equipment: MacBook and iPhone =)skdmfksdf
+  The main reason I am passionate about programming in Swift is that I have the availability of necessary equipment: MacBook and iPhone =)
 
 * ### Skills
 	* Python
